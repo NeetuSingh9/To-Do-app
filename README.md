@@ -1,7 +1,8 @@
-# mern-stack-example
-Mern Stack code for the [Mern Tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
 
-[![CI](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml/badge.svg)](https://github.com/mongodb-developer/mern-stack-example/actions/workflows/main.yaml)
+
+
+![Screenshot (53)](https://github.com/NeetuSingh9/To-Do-app/assets/76874970/98728985-705f-40f2-b57f-48706594b992)
+
 
 ## How To Run
 Create the file `mern/server/config.env` with your Atlas URI and the server port:
